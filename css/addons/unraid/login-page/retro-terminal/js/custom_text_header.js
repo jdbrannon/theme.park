@@ -9,11 +9,9 @@ let custom_text_header = `
 <div class="custom-text-header"> <pre>                     __                             ___       __  
     ____                                   
    / __ )_________ _____  ____  ____  ____ 
-  / __  / ___/ __ `/ __ \/ __ \/ __ \/ __ \
+  / __  / ___/ __ `/ __ \\/ __ \\/ __ \\/ __ \\
  / /_/ / /  / /_/ / / / / / / / /_/ / / / /
-/_____/_/   \__,_/_/ /_/_/ /_/\____/_/ /
-_/ 
-
- </pre> </div>
+/_____/_/   \\__,_/_/ /_/_/ /_/\\____/_/ /
+                                                                 </pre> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
