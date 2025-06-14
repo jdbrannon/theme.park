@@ -60,7 +60,7 @@ html {background: var(--main-bg-color) !important;}
 body {background: var(--main-bg-color) !important;}
 /* CRT SCREEN FLICKER*/
 body::before {
-    content: "";
+    content: "testing";
     background: radial-gradient(ellipse at center,var(--body-before) 0,rgb(0, 0, 0) 100%) !important;
     background-repeat: repeat-y !important;
     background-size: 100% 4px !important;
